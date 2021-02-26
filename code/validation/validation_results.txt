@@ -1,0 +1,424 @@
+[1] "seed =  1"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -0.7671, df = 194.649, p-value = 0.4439
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.6161171  0.7109815
+sample estimates:
+mean of x mean of y 
+-11.68152 -11.22895 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.1, p-value = 0.6994
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  2"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -1.3789, df = 193.281, p-value = 0.1695
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.8035512  0.3193651
+sample estimates:
+mean of x mean of y 
+-11.77802 -11.03593 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.15, p-value = 0.2106
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  3"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -1.086, df = 196.335, p-value = 0.2788
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.569816  0.454849
+sample estimates:
+mean of x mean of y 
+-11.59827 -11.04078 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.12, p-value = 0.4676
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  4"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -0.0825, df = 186.498, p-value = 0.9343
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.118383  1.028605
+sample estimates:
+mean of x mean of y 
+-11.36875 -11.32386 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.12, p-value = 0.4676
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  5"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -1.7188, df = 172.661, p-value = 0.08745
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -2.1639583  0.1494498
+sample estimates:
+mean of x mean of y 
+-11.97664 -10.96939 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.19, p-value = 0.0541
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  6"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -0.9313, df = 195.274, p-value = 0.3528
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.5796966  0.5662903
+sample estimates:
+mean of x mean of y 
+-11.77229 -11.26558 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.14, p-value = 0.281
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  7"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -0.4268, df = 196.548, p-value = 0.67
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.1761141  0.7575854
+sample estimates:
+mean of x mean of y 
+-11.83416 -11.62490 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.16, p-value = 0.1545
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  8"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -0.9564, df = 188.448, p-value = 0.3401
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.5882888  0.5510758
+sample estimates:
+mean of x mean of y 
+-11.49676 -10.97815 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.11, p-value = 0.5806
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  9"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -1.439, df = 197.742, p-value = 0.1517
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.7168844  0.2682831
+sample estimates:
+mean of x mean of y 
+ -11.6356  -10.9113 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.14, p-value = 0.281
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  10"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -1.2682, df = 195.51, p-value = 0.2062
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.7552865  0.3813456
+sample estimates:
+mean of x mean of y 
+-12.31052 -11.62355 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.13, p-value = 0.3667
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  11"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -0.2797, df = 196.113, p-value = 0.78
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.2576034  0.9452069
+sample estimates:
+mean of x mean of y 
+-11.56357 -11.40737 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.08, p-value = 0.9062
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  12"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -0.1058, df = 189.084, p-value = 0.9159
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.0809140  0.9708725
+sample estimates:
+mean of x mean of y 
+-11.56506 -11.51004 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.09, p-value = 0.8127
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  13"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -1.2616, df = 195.961, p-value = 0.2086
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.6595469  0.3646509
+sample estimates:
+mean of x mean of y 
+-11.96677 -11.31932 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.15, p-value = 0.2106
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  14"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -1.038, df = 193.343, p-value = 0.3005
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.4502611  0.4500908
+sample estimates:
+mean of x mean of y 
+-11.31734 -10.81726 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.22, p-value = 0.01581
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  15"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -0.4606, df = 196.512, p-value = 0.6456
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.3047514  0.8107031
+sample estimates:
+mean of x mean of y 
+-12.09528 -11.84826 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.08, p-value = 0.9062
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  16"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -1.0504, df = 193.966, p-value = 0.2948
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.5838528  0.4830555
+sample estimates:
+mean of x mean of y 
+-11.80846 -11.25806 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.09, p-value = 0.8127
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  17"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -2.5793, df = 184.741, p-value = 0.01068
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -2.3296253 -0.3103308
+sample estimates:
+mean of x mean of y 
+-12.02545 -10.70547 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.23, p-value = 0.01008
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  18"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = 0.4108, df = 197.897, p-value = 0.6816
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.8012015  1.2228738
+sample estimates:
+mean of x mean of y 
+-11.56424 -11.77508 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.12, p-value = 0.4676
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  19"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -0.73, df = 192.527, p-value = 0.4663
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.4661735  0.6740391
+sample estimates:
+mean of x mean of y 
+-12.07383 -11.67777 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.15, p-value = 0.2106
+alternative hypothesis: two-sided
+
+======================================================
+[1] "seed =  20"
+
+	Welch Two Sample t-test
+
+data:  entropies[, 1] and entropies[, 2]
+t = -0.611, df = 197.148, p-value = 0.5419
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.3217907  0.6964632
+sample estimates:
+mean of x mean of y 
+-11.50863 -11.19597 
+
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  entropies[, 1] and entropies[, 2]
+D = 0.13, p-value = 0.3667
+alternative hypothesis: two-sided
+
+======================================================
+
+1 t-test
+2 KS-test 
+with P-values below 0.05

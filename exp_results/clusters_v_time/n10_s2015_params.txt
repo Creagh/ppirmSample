@@ -1,0 +1,24 @@
+n10_s2015
+
+seed <- 2015
+
+num_nodes <- 10
+alpha <- 1 # the parameter for the CRP
+delta <- 0.3 # the shape parameter for the Gamma dist'n
+beta <- 0.01 # the inverse scale (aka rate) for Gamma
+
+a <- 0.01 # shape of Gamma hyperprior for DELTA
+b <- 0.01 # rate of Gamma hyperprior for DELTA
+c <- 0.01 # shape of Gamma hyperprior for BETA
+d <- 0.01 # rate of Gamma hyperprior for BETA
+
+iterations <- 10000 # number of MCMC iterations
+initial_part <- 1:num_nodes # initial partition: everyone at their own table
+initial_alpha <- 2
+initial_delta <- 1
+initial_beta <- 1
+
+first <- 0.01 # the smallest stopping time
+last <- 0.2 # the largest stopping time
+by <- 0.01 # the amount to increase by each time
+
