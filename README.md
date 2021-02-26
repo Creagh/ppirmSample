@@ -8,7 +8,7 @@ This repository contains a sample of work for an ongoing project. It includes an
 
 [`code/model/poisson_process_irm.R`](code/model/poisson_process_irm.R) contains the functions for forward-sampling from the model, include sampling from a Poisson process and Chinese Restaurant process.
 
-[`code/model/likelihood.R`](code/model/likelihood.R) contains the function for calculating the likelihood of the transactional network data, given the cluster memberships and other model parameters.
+[`code/model/marginalized_likelihood.R`](code/model/marginalized_likelihood.R) contains the function for calculating the marginalized log-likelihood of the transactional network data, given the cluster memberships.
 
 [`code/samplers/sample_all_params.R`](code/samplers/sample_all_params.R) contains the driver code for generating Markov Chain Monte Carlo samples of the model parameters and hyperparameters.
 
