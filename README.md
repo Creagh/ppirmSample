@@ -6,9 +6,9 @@ This repository contains a sample of work for an ongoing project. It includes an
 
 ## Examples
 
-`model/poisson_process_irm.R` contains the functions for forward-sampling from the model, include sampling from a Poisson process and Chinese Restaurant process.
+[`code/model/poisson_process_irm.R`](code/model/poisson_process_irm.R) contains the functions for forward-sampling from the model, include sampling from a Poisson process and Chinese Restaurant process.
 
-`samplers/sample_all_params.R` contains the driver code for generating Markov Chain Monte Carlo samples of the model parameters and hyperparameters.
+[`code/samplers/sample_all_params.R`](code/samplers/sample_all_params.R) contains the driver code for generating Markov Chain Monte Carlo samples of the model parameters and hyperparameters.
 
 ## References
 
